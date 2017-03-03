@@ -1,0 +1,5 @@
+The data can be found at 
+
+https://www.kaggle.com/wendykan/lending-club-loan-data
+
+It may require a log in.
